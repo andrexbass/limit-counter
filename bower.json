@@ -1,7 +1,6 @@
 {
-  "name": "LimitCounter",
+  "name": "limit-counter",
   "version": "0.0.1",
-  "homepage": "https://github.com/andrexbass/LimitCounter",
   "authors": [
     "Andre Amorim <andre.php6@gmail.com>"
   ],
