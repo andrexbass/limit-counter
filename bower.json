@@ -1,0 +1,15 @@
+{
+  "name": "LimitCounter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/andrexbass/LimitCounter",
+  "authors": [
+    "Andre Amorim <andre.php6@gmail.com>"
+  ],
+  "description": "Textarea limit counter char",
+  "main": "./scripts/limitCounter.js",
+  "keywords": [
+    "textarea",
+    "counter"
+  ],
+  "license": "MIT"
+}
